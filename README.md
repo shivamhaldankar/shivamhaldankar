@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋, I'm Shivam Haldankar
 
-<!--
-**shivamhaldankar/shivamhaldankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
+💻 Interested in Software Development
+🚀 Currently improving my Data Structures & Algorithms skills
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* C++
+* Python
+* Java
+* HTML & CSS
+* JavaScript
+* MySQL
+* Git & GitHub
+
+## 🧩 LeetCode
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/shivamhaldankar?theme=dark)](https://leetcode.com/)
+
+## 📚 Current Focus
+
+* Data Structures & Algorithms
+* C++
+* Python
+* Problem Solving
+* Git & GitHub
+
+## 📌 Projects
+
+* 🏠 Hostel Management System
+* 🌾 Crop Yield & Profit Predictor
+* 🧩 LeetCode Solutions
+
+## 🔗 Links
+
+* [GitHub](https://github.com/shivamhaldankar)
+* [LeetCode](https://leetcode.com/)
