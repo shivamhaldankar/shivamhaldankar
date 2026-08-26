@@ -85,8 +85,8 @@ A collection of my solutions to coding problems, mainly focused on improving alg
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivamhaldankar&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamhaldankar&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shivamhaldankar&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamhaldankar&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -94,7 +94,7 @@ A collection of my solutions to coding problems, mainly focused on improving alg
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shivamhaldankar&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=shivamhaldankar&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
