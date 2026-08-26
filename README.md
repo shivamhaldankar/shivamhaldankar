@@ -6,7 +6,7 @@
 
 ## 🛠️ Skills
 
-* C++
+* C/C++
 * Python
 * Java
 * HTML & CSS
