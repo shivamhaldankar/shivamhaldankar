@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Shivam Haldankar
 
-### 💻 Computer Science Student | Software Developer in Progress
+### 💻 Computer Science Student 
 
-I'm a Computer Science student passionate about **software development, problem solving, and building practical projects**.
+I'm a Computer Science student passionate about **problem solving, and building practical projects**.
 
 🚀 Currently focused on improving my **Data Structures & Algorithms** skills and becoming a better developer one problem at a time.
 
