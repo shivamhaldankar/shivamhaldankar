@@ -82,23 +82,6 @@ A collection of my solutions to coding problems, mainly focused on improving alg
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivamhaldankar&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamhaldankar&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=shivamhaldankar&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🎯 2026 Goals
 
 * ✅ Improve C++ fundamentals
