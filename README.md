@@ -10,8 +10,7 @@ I'm a Computer Science student focused on software development, web applications
 
 ## ⚡ Quick Overview
 
-- 🎓 **Degree:** Computer Science Student
-- 🌐 **Live Platform:** [kaamsetu.in](https://kaamsetu.in)
+- 🎓 **Degree:** Computer Science 
 - 💼 **Open To:** Software Engineering Internships and Project Collaborations
 - 📫 **Contact:** [shivamhaldankar2006@gmail.com](mailto:shivamhaldankar2006@gmail.com)
 
