@@ -10,7 +10,9 @@ I'm a Computer Science student focused on software development, web applications
 
 ## ⚡ Quick Overview
 
-- 🎓 **Degree:** Computer Science 
+- 🎓 **Degree:** Computer Science
+- 🌐 **Live Platform:** [kaamsetu.in](https://kaamsetu.in)
+- 🏆 **Hackathon:** Built **KaamSetu** for Bit N Build Hackathon
 - 💼 **Open To:** Software Engineering Internships and Project Collaborations
 - 📫 **Contact:** [shivamhaldankar2006@gmail.com](mailto:shivamhaldankar2006@gmail.com)
 
@@ -39,19 +41,19 @@ I'm a Computer Science student focused on software development, web applications
 ## 🚀 Featured Projects
 
 ### 🤝 [KaamSetu](https://kaamsetu.in)
-> **Website:** [kaamsetu.in]
-* Built and deployed a web platform designed to bridge the gap between workers and service seekers.
-* Implemented user management, task listings, and streamlined communication flows.
+> **Website:** [kaamsetu.in](https://kaamsetu.in) • **Event:** Bit N Build Hackathon Project
+- Built and deployed a web platform designed to bridge the gap between workers and service seekers.
+- Developed during the Bit N Build Hackathon featuring user management, task listings, and streamlined communication flows.
 
 ### 🏠 [Hostel Management System](https://github.com/shivamhaldankar/hostel-management-system)
 > **Tech:** PHP, MySQL, HTML, CSS, JavaScript
-* Built a web application automating student onboarding, room allocation, and maintenance tickets.
-* Designed role-based authentication and structured relational database schemas in MySQL.
+- Built a web application automating student onboarding, room allocation, and maintenance tickets.
+- Designed role-based authentication and structured relational database schemas in MySQL.
 
 ### 🌾 [Crop Yield & Profit Predictor](https://github.com/shivamhaldankar/crop-yield-predictor)
 > **Tech:** Python, Pandas, Scikit-Learn
-* Machine learning pipeline processing agricultural data to estimate crop yields and profit categories.
-* Implemented data cleaning and model training workflows for productivity insights.
+- Machine learning pipeline processing agricultural data to estimate crop yields and profit categories.
+- Implemented data cleaning and model training workflows for productivity insights.
 
 ---
 
