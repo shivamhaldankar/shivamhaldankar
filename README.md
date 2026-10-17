@@ -11,7 +11,6 @@ I'm a Computer Science student focused on software development, web applications
 ## ⚡ Quick Overview
 
 - 🎓 **Degree:** Computer Science
-- 🌐 **Live Platform:** [kaamsetu.in](https://kaamsetu.in)
 - 🏆 **Hackathon:** Built **KaamSetu** for Bit N Build Hackathon
 - 💼 **Open To:** Software Engineering Internships and Project Collaborations
 - 📫 **Contact:** [shivamhaldankar2006@gmail.com](mailto:shivamhaldankar2006@gmail.com)
@@ -41,7 +40,7 @@ I'm a Computer Science student focused on software development, web applications
 ## 🚀 Featured Projects
 
 ### 🤝 [KaamSetu](https://kaamsetu.in)
-> **Website:** [kaamsetu.in](https://kaamsetu.in) • **Event:** Bit N Build Hackathon Project
+> **Event:** Bit N Build Hackathon Project
 - Built and deployed a web platform designed to bridge the gap between workers and service seekers.
 - Developed during the Bit N Build Hackathon featuring user management, task listings, and streamlined communication flows.
 
