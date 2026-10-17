@@ -39,7 +39,7 @@ I'm a Computer Science student focused on software development, web applications
 ## 🚀 Featured Projects
 
 ### 🤝 [KaamSetu](https://kaamsetu.in)
-> **Website:** [kaamsetu.in](kaamsetuin.vercel.app)
+> **Website:** [kaamsetu.in]
 * Built and deployed a web platform designed to bridge the gap between workers and service seekers.
 * Implemented user management, task listings, and streamlined communication flows.
 
