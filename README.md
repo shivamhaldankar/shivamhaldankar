@@ -39,11 +39,6 @@ I'm a Computer Science student focused on software development, web applications
 
 ## 🚀 Featured Projects
 
-### 🩸 [Pulse — Blood & Organ Availability Network](https://github.com/shivamhaldankar/donor-network-web)
-> **Tech:** PostgreSQL, Node.js, Express.js, React, PL/pgSQL
-- Real-time availability system that matches critical blood requests to nearby eligible donors using Haversine formulas and 90-day cooldown triggers.
-- Features database-driven ABO compatibility organ allocation, real-time notification queueing, and role-based access control.
-
 ### 🤝 [KaamSetu](https://kaamsetu.in)
 > **Event:** Bit N Build Hackathon Project
 - Built and deployed a web platform designed to bridge the gap between workers and service seekers.
