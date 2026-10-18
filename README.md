@@ -59,9 +59,6 @@ I'm a Computer Science student focused on software development, web applications
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://kaamsetu.in">
-    <img src="https://img.shields.io/badge/Website-kaamsetu.in-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" alt="KaamSetu" />
-  </a>
   <a href="https://www.linkedin.com/in/shivam-haldankar/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
